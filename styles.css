@@ -1,0 +1,88 @@
+body{
+    margin: 0;
+    padding: 2rem 0rem;
+    overflow-x: hidden;
+   font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+/* ---------------------------------landing page-------------------------------------- */
+.line{
+    border: none; 
+    border-top: 1px solid rgb(187, 187, 241);
+    width: 158px;
+    margin-top: 8px;
+    color: rgb(195, 191, 191);
+    margin-left: 1rem;
+     
+}
+
+/* .welcome{
+margin-left: 2rem;
+padding-top: 3rem;
+
+} */
+
+/* .popup-container1{
+    min-height: 30rem;
+    width: 100%;
+} */
+
+/* #popup-container1{
+    margin: 1rem;
+} */
+
+.icons{
+        /* padding-left: 8rem; */
+        font-size: 1rem;
+        color: blue;
+}        
+
+/* .row{
+    border: 2px solid black;
+} */
+
+#close-button{
+   position: absolute;
+  
+}
+
+
+/*----------------------------------------------progress section--------------------------------*/
+
+
+
+  /* .container2{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+  .gress{
+    display: flex;
+    justify-content: center;
+  }
+  
+  .buttons {
+    margin-top: 2rem;
+    display: flex;
+    gap: 50px;
+    margin-left: 4rem;
+  }
+  
+  .pro {
+    padding: 10px 30px;
+    color: white;
+    background-color: blue;
+  
+  }
+  
+  .line1{
+    border: none; 
+    border-top: 2px solid black;
+    width: 60px;
+    margin-top: 20px;
+  } */
+
+
+
